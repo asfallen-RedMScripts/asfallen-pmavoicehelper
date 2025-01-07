@@ -7,6 +7,6 @@ Config.Color = {
     b = 6   
 }
 
-Config.DisplayTime = 3000
+Config.DisplayTime = 1000
 Config.LineWidth = 3.0     
-Config.YOffset = -1.0     
+Config.YOffset = -0.5     
